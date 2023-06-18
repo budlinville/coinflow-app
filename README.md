@@ -33,3 +33,5 @@
         <div style={{ height: '100vh' }}>
             <CoinflowContent />
         </div>
+* It's pretty obvious that this is the eventual plan, but probably not a priority right now: documentation for the other major javascript libraries: Angular, Vue, Svelte, maybe raw javascript as well? Not sure if the last one is possible or not given the reliance on solana.
+    * Also maybe documentation for different bundling tools.. my favorite being vite
